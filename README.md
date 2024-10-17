@@ -19,5 +19,5 @@ This approach showcases test-first development, refactoring between tests, and a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/string-calculator-tdd.git
+   git clone https://github.com/priyankaag19/String-Calculator.git
 
