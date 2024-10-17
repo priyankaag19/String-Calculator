@@ -11,7 +11,8 @@ Summation: The numbers are summed using reduce.
 ## Run the Tests
 You can run the tests using Jest by executing:
 
- npm test
+npm test
+ 
 This approach showcases test-first development, refactoring between tests, and adhering to the constraints set in the problem.
 
 ## How to Run
